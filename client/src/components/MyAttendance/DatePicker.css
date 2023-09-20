@@ -1,0 +1,27 @@
+.table-rounded {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.list-group-item{
+background: none;
+border: none;
+padding: 2px 0px ;
+}
+/* Custom styles for highlighted days */
+.highlighted-day {
+    background-color: #f7eaea;
+    color: #000;
+}
+
+/* Custom styles for specific highlighted dates */
+.custom-highlighted-day {
+    background-color: #c6e0b4;
+    color: #000;
+}
+
+
+.date-picker-container .flatpickr-calendar {
+    width: 100px; /* Set your desired width */
+  }
